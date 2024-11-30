@@ -28,7 +28,7 @@ cearcane, consum exagerat de cafeina etc etc. m
 ## Milestone #2
 
 #### Cerințe
-- [ ] separarea codului din clase în `.h` (sau `.hpp`) și `.cpp`
+- [✅ ] separarea codului din clase în `.h` (sau `.hpp`) și `.cpp`
 - [ ] moșteniri:
   - minim o clasă de bază și **3 clase derivate** din aceeași ierarhie
   - ierarhia trebuie să fie cu bază proprie, nu derivată dintr-o clasă predefinită
@@ -47,9 +47,9 @@ cearcane, consum exagerat de cafeina etc etc. m
   - această ierarhie va fi complet independentă de ierarhia cu funcții virtuale
 - [ ] funcții și atribute `static`
 - [ ] STL
-- [ ] cât mai multe `const`
+- [ ✅] cât mai multe `const`
 - [ ] funcții *de nivel înalt*, de eliminat cât mai mulți getters/setters/funcții low-level
-- [ ] tag de `git`: de exemplu `v0.2`
+- [ ✅] tag de `git`: de exemplu `v0.2`
 
 ## Milestone #3
 
